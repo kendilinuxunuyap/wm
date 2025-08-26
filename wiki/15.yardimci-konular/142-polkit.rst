@@ -81,15 +81,21 @@ eylemlerine *wheel* için açıkça izin verin.
 3) Tekrar oturum açın ve ``lxsession-logout`` üzerinden deneyin.
 
 
+**Önemli Not:**
+---------------
+
+Sisteminizde polkit kullanıyorsanız ve masaüstü ortamı **LXDE** ise **lxpolkit** devre dışı bırakılmalıdır. Kaldırma işlemini **lxsession** otomatik başlatma seçeneklerinden **lxpolkit** kaldırılarak yapılır. Kaldırılmaması durumunda birden fazla yetkilendirme çalışıyor uyarısı alırız. 
+
+
 **Kaynaklar**::
 
-- OpenRC Resmi Belgeler:	https://wiki.gentoo.org/wiki/OpenRC
-- Polkit Resmi Dokümantasyon:	https://www.freedesktop.org/software/polkit/docs/latest/
-- Arch Wiki — Polkit:	https://wiki.archlinux.org/title/Polkit
-- Arch Wiki — Elogind:	https://wiki.archlinux.org/title/Elogind
-- LXDE Resmi Wiki:	https://wiki.lxde.org/en/Main_Page
-- Debian Wiki — Polkit:	https://wiki.debian.org/PolicyKit
-- Polkit kural örnekleri (wheel group):	https://wiki.archlinux.org/title/Polkit#Bypass_password_prompt
+	- OpenRC Resmi Belgeler:	https://wiki.gentoo.org/wiki/OpenRC
+	- Polkit Resmi Dokümantasyon:	https://www.freedesktop.org/software/polkit/docs/latest/
+	- Arch Wiki — Polkit:	https://wiki.archlinux.org/title/Polkit
+	- Arch Wiki — Elogind:	https://wiki.archlinux.org/title/Elogind
+	- LXDE Resmi Wiki:	https://wiki.lxde.org/en/Main_Page
+	- Debian Wiki — Polkit:	https://wiki.debian.org/PolicyKit
+	- Polkit kural örnekleri (wheel group):	https://wiki.archlinux.org/title/Polkit#Bypass_password_prompt
 
 .. raw:: pdf
 

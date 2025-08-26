@@ -48,6 +48,11 @@ Açıklama:
 - `pidfile`: servis PID bilgisini saklar.
 - `depend()`: servis başlatılmadan önce D-Bus’ın aktif olmasını garanti eder.
 
+
+.. raw:: pdf
+
+   PageBreak
+   
 **3. Başlatma ve OpenRC’ye Ekleme**
 -----------------------------------
 
@@ -107,6 +112,11 @@ Açıklama:
       sed -i "/elogind-user/d" /etc/pam.d/system-auth
       echo -e "\nsession    include    elogind-user" >> /etc/pam.d/system-auth
 
+
+.. raw:: pdf
+
+   PageBreak
+   
 **5. OpenRC Agetty Ayarı**
 --------------------------
 
