@@ -1,6 +1,6 @@
 .. _sistemcalistirma-inceleme:
-Oluşan Sistemin Çalıştırılması İncelenmesi
-==========================================
+Oluşan Sistemin Çalıştırılması ve İncelenmesi
+=============================================
 .. toctree::
 	:glob:
 
