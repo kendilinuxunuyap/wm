@@ -3,8 +3,8 @@
 
 Bir uygulamanın kodları genellikle çalışmaz(python benzeri kodlar istisna). Bu kodlardan sistemlerin çalışması için çalışabilir dosyalar üretilir(linuxta ikili dosya, elf, windowsta exe, com vb.). Bu çalışabilir dosyaları koddan oluştururken iki faklı şekilde oluşturabiliriz.
 
-1- **Paylaşımlı Derleme(dynamic):** Kendine lazım olan kütüphaneleri sistem üzerindeki başka uygulamalarla ortak kullanır. 
-2- **Paylaşımsız, gömülü(static):** Kendisine lazım olan kütütphaneleri kendi içinde barındırır(porable uygulama gibi).
+	- **Paylaşımlı Derleme(dynamic):** Kendine lazım olan kütüphaneleri sistem üzerindeki başka uygulamalarla ortak kullanır. 
+	- **Paylaşımsız, gömülü(static):** Kendisine lazım olan kütütphaneleri kendi içinde barındırır(porable uygulama gibi).
 
 Şimdi aşağıdaki kaynak kodumuzu iki farklı yöntemle derleyelim.
 
@@ -17,7 +17,7 @@ Bir uygulamanın kodları genellikle çalışmaz(python benzeri kodlar istisna).
 	}
 
 
-**2-Paylaşımlı Derleme(dynamic):** 
+**1-Paylaşımlı Derleme(dynamic):** 
 --------------------------------
 
 Derlenen uygulama  sistemde bulunan kütüphaneleri kullanacak şeklide derlenmesidir. Uygulama boyutu küçüktür, taşınabirliği sınırlanabilir.
@@ -83,7 +83,7 @@ Paylaşımlı(dynamic) derleme işleminde bağımlı olduğu dosyaları **ldd** 
 	ldd main
 	    not a dynamic executable
 
-Bağımlı kütüphaneler yerine **not a dynamic executable** mesajı gördük. Bunun anlamı çalışması için hiçbir kütüphaneye ihtiyaç duymaz. Bu bir avantaj ve taşınabirliği artırır. Devevantajı ise boyutu büyük olur. İhtiyaca göre paylaşımlı veya paylaşımsız derleme tercih edilir.
+Bağımlı kütüphaneler yerine **not a dynamic executable** mesajı gördük. Bunun anlamı çalışması için hiçbir kütüphaneye ihtiyaç duymaz. Bu bir avantaj ve taşınabirliği artırır. Dezavantajı ise boyutu büyük olur. İhtiyaca göre paylaşımlı veya paylaşımsız derleme tercih edilir.
 
 
 .. raw:: pdf

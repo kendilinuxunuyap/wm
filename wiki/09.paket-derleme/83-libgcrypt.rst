@@ -2,7 +2,7 @@
 **libgcrypt**
 =============
 
-libgcrypt, GnuPG’nin de kullandığı, şifreleme, imzalama, hash ve rastgele sayı üretimi gibi kriptografik işlemler sağlayan bir kütüphanedir.
+Şifreleme, imzalama, hash ve rastgele sayı üretimi gibi işlemleri sağlayan bir kütüphanedir.
 
 **Paketi Derleme :**
 --------------------

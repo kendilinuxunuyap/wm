@@ -2,7 +2,7 @@
 **hicolor-icon-theme**
 ======================
 
-hicolor-icon-theme, Linux ve Unix tabanlı sistemlerde, masaüstü ortamları ve uygulamalar için simge seti sağlayan bir temadır. Bu tema, "hicolor" adıyla bilinir ve genellikle uygulamaların simgelerini bir standarda oturtmak amacıyla kullanılır.
+Masaüstü ortamları ve uygulamalar için bir temadır. 
 
 **Paketi Derleme :**
 --------------------

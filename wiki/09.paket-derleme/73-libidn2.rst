@@ -2,7 +2,7 @@
 **libidn2**
 ===========
 
-libidn2, Internationalized Domain Names (IDN) yani Uluslararasılaştırılmış Alan Adları için kullanılan bir kütüphanedir. Bu kütüphane, DNS (Domain Name System) üzerinde yer alan, ASCII dışındaki karakter setlerini (örneğin, Türkçe, Arapça, Çince gibi dillerdeki karakterler) destekleyen alan adlarını doğru şekilde işleyebilmek için kullanılır.
+Alan Adları için kullanılan bir kütüphanedir.
 
 **Paketi Derleme :**
 --------------------

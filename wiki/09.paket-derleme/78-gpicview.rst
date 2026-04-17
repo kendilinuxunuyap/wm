@@ -2,7 +2,7 @@
 **gpicview**
 ============
 
-gpicview, GNOME masaüstü ortamı için hafif, hızlı ve basit bir resim görüntüleyicisidir. Kullanıcı dostu arayüzü ve temel görüntüleme özellikleriyle, sistem kaynaklarını verimli kullanırken kullanıcıya hızlı bir şekilde resimlere göz atma imkanı sunar. 
+gpicview, GNOME masaüstü ortamı için resim görüntüleyicisidir.
 
 **Paketi Derleme :**
 --------------------

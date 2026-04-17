@@ -3,11 +3,6 @@
 ===========
 
 LightDM, Linux sistemlerinde kullanılan bir giriş yöneticisidir (display manager).
-Görevi:
-
-- Bilgisayar açıldığında grafiksel giriş ekranını (login screen) sağlar.
-- Kullanıcıların kullanıcı adı ve şifreyle oturum açmasını sağlar.
-- Açılacak masaüstü ortamını/seansı seçmeye imkân verir.
 
 **Paketi Derleme :**
 --------------------

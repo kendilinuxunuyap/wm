@@ -2,7 +2,7 @@
 **libgpg-error**
 ================
 
-libgpg-error, GnuPG ve libgcrypt gibi kütüphanelerde kullanılan hata kodlarını ve açıklamalarını sağlayan yardımcı kütüphanedir.
+GnuPG ve libgcrypt için yardımcı kütüphanedir.
 
 **Paketi Derleme :**
 --------------------

@@ -2,7 +2,7 @@
 **libjpeg62**
 =============
 
-libjpeg62, JPEG formatındaki resimlerin sıkıştırılması, çözülmesi ve işlenmesi için kullanılan bir kütüphanedir. Genellikle görüntü işleme uygulamalarında, web servislerinde ve fotoğraf düzenleme yazılımlarında kullanılır. Daha yeni sürümler olsa da, libjpeg62 eski sistemler ve uygulamalar için hala önemli bir kütüphanedir.
+JPEG formatındaki resimler için kullanılan bir kütüphanedir.
 
 **Paketi Derleme :**
 --------------------

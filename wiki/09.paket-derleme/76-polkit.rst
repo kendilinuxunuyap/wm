@@ -2,7 +2,7 @@
 **polkit**
 ==========
 
-Polkit, Linux ve diğer Unix tabanlı sistemlerde, yönetici yetkisi gerektiren işlemleri güvenli bir şekilde yetkilendirmek için kullanılan bir araçtır. Kullanıcılar, sistemdeki kritik işlemleri gerçekleştirirken Polkit sayesinde yalnızca gerekli izinlere sahip olduklarında işlem yapabilir. Bu, hem güvenliği arttırır hem de sistem yöneticilerine daha ayrıntılı izin yönetimi sunar.
+Kullanıcıların güvenli bir şekilde yetkilendirmek için kullanılan bir araçtır.
 
 **Paketi Derleme :**
 --------------------

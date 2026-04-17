@@ -1,7 +1,7 @@
 **Window Manager (Pencere Yöneticisi)**
 ---------------------------------------
 
-Xorg yalnızca pencereyi oluşturur. Pencereyi taşıma, kapatma, büyütme ve küçültme işlemlerini yapar. Basit ortam sunan pencere yöneicileri( Openbox, i3).
+Xorg yalnızca pencereyi oluşturur. Pencereyi taşıma, kapatma, büyütme ve küçültme işlemlerini yapar. Basit ortam sunan pencere yöneticileri( Openbox, i3).
 
 Xorg + Openbox => Grafik ortamda çalışan bir sistem oluşturur.
 

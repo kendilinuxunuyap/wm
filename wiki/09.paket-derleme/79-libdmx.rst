@@ -2,7 +2,7 @@
 **libdmx**
 ==========
 
-libdmx, DMX (Distributed Multihead X) protokolünü destekleyen bir kütüphanedir. DMX, X Window System üzerinde birden fazla ekranı (multihead) birleştirerek dağıtık bir masaüstü ortamı oluşturmanıza olanak tanır. DMX, temel olarak, birden fazla X sunucusunun birleşik bir şekilde çalışmasını sağlar, böylece birden fazla monitörü tek bir büyük masaüstü ortamı olarak kullanabilirsiniz.
+DMX protokolünü kütüphanesidir.
 
 **Paketi Derleme :**
 --------------------

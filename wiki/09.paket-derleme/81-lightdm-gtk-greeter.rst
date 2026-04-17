@@ -2,7 +2,7 @@
 **lightdm-gtk-greeter**
 =======================
 
-lightdm-gtk-greeter, LightDM için kullanılan bir greeter (karşılama arayüzü) paketidir. LightDM sadece oturum yönetimini yapar, ama kendi başına grafiksel giriş ekranı göstermez. Bu ekranı sağlamak için bir greeter gerekir. lightdm-gtk-greeter, GTK+ kütüphanesi ile yazılmış hafif, sade ve özelleştirilebilir bir giriş ekranı sağlar.
+lightdm-gtk-greeter, LightDM için kullanılan bir greeter (karşılama arayüzü) paketidir. 
 
 **Paketi Derleme :**
 --------------------

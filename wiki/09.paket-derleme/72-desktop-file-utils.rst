@@ -2,7 +2,7 @@
 **desktop-file-utils**
 ======================
 
-desktop-file-utils, Linux sistemlerinde masaüstü ortamlarıyla ilgili dosya işlemleri yapan bir yazılım paketidir. Bu araç, .desktop dosyalarını işlemek ve doğrulamak için kullanılır. .desktop dosyaları, bir uygulamanın masaüstü ortamında nasıl görüntüleneceği ve çalıştırılacağına dair bilgi içeren metin dosyalarıdır. Bu dosyalar, bir uygulamanın menülerde nasıl görüneceğini, hangi simgeyi kullanacağını, çalıştırılacak komutları ve diğer önemli bilgileri belirler.
+Masaüstü ortamlarıyla ilgili dosya işlemleri yapan yazılım paketidir.
 
 **Paketi Derleme :**
 --------------------
