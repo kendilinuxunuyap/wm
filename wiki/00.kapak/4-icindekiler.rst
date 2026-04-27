@@ -7,21 +7,21 @@
    * - 1- :ref:`temelkavramlar`
      - 5
    * - 2- :ref:`sistemhazirlanmasi`
-     - 8
+     - 6
    * - 3- :ref:`paketderleme`
-     - 18
+     - 16
    * - 4- :ref:`isohazirlama`
-     - 100
+     - 101
    * - 5- :ref:`sistemcalistirma-inceleme`
-     - 103
+     - 104
    * - 6- :ref:`xpenceresistemi`
-     - 108
+     - 109
    * - 7- :ref:`yardimcikonular`
-     - 110
+     - 111
    * - 8- :ref:`kaynaklar`
-     - 147
+     - 163
    * - 9- :ref:`gelistiricimesaji`
-     - 148
+     - 164
  
 .. raw:: pdf
 
