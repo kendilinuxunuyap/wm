@@ -21,6 +21,7 @@ Python ile paket derlemek için genellikle **setuptools** ve **distutils** gibi 
 Ardından, terminalde projenizin bulunduğu dizine giderek aşağıdaki komutu çalıştırarak paketi derleyebilirsiniz:
 
 .. code-block:: shell
+
 	# yükleme konumu
 	INSTALL_ROOT=/
 	python3 -m compile_packages
