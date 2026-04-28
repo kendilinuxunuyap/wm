@@ -57,7 +57,7 @@ GitHub ana sayfasına gidin ve hesabınıza giriş yapın. Eğer bir hesabınız
 **github Varsayılan Dal Ayarı:**
 --------------------------------
 
-githubda varsayılan olarak eski sürümlerde master, yeni sürümlerde main kullanılmaktadır. Projelermizde ve burada kullanılan yapılarda **master** kullanıldığı için aşağıda görülduğü gibi varsalılan dalı  **master** yapıyoruz.
+githubda varsayılan olarak eski sürümlerde master, yeni sürümlerde main kullanılmaktadır. Projelerimizde ve burada kullanılan yapılarda **master** kullanıldığı için aşağıda görülduğü gibi varsalılan dalı  **master** yapıyoruz.
 
 .. image:: /_static/images/github-master.png
   :width: 600

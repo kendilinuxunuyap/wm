@@ -16,7 +16,7 @@ yazılması gerekmektedir. Artık sistem openrc servis yöneticisi tarafından u
 **openrc Kullanımı**
 --------------------
 
-Servis etkinleştirip devre dışı hale getirmek için **rc-update** komutu kullanılır.  
+Servisleri etkinleştirip devre dışı hale getirmek için **rc-update** komutu kullanılır.  
 Aşağıda **udhcpc** internet servisi örnek olarak gösterilmiştir.  
 **/etc/init.d/** konumunda **udhcpc** dosyamızın olması gerekmektedir.
 

@@ -139,7 +139,7 @@ Açıklama:
 **6. Diğer Öneriler ve Notlar**
 -------------------------------
 
-- `elogind`, sistemde `/run/systemd` gibi dizinler yaratır; böylece bazı uygulamalar systemd’ye ihtiyaç duymadan çalışabilir.
+- `elogind`, sistemde `/run/systemd` gibi dizinler oluşturur; böylece bazı uygulamalar systemd’ye ihtiyaç duymadan çalışabilir.
 - Polkit yetkilendirme sorunları genellikle kullanıcıların `wheel` grubuna dahil olmamasıyla ilişkilidir.
 - OpenRC + elogind ile systemd’ye gerek kalmadan oturum yönetimi sağlanabilir.
 

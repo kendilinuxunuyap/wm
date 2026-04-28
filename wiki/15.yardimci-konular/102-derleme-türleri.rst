@@ -51,7 +51,7 @@ Derlenmiş dosyanın çalışması için tüm bağımlılıklarının sistemde b
 **ldconfig**
 ------------
 
-Sistemdeki kütüpkhanelerin konumlarını **/etc/ld.so.conf** dosyasına bakarak belirler. 
+Sistemdeki kütüphanelerin konumlarını **/etc/ld.so.conf** dosyasına bakarak belirler. 
 
 .. code-block:: shell
 	
